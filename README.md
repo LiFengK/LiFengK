@@ -42,10 +42,6 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C036%20hrs%2044%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
-
 <!--END_SECTION:waka-->
 
 [![LiFengK's GitHub stats](https://github-readme-stats-two-inky-88.vercel.app/api?username=LiFengK&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
