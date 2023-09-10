@@ -44,4 +44,4 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![LiFengK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiFengK)](https://github.com/anuraghazra/github-readme-stats)
+[![LiFengK's GitHub stats](https://github-readme-stats-two-inky-88.vercel.app/api?username=LiFengK&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
