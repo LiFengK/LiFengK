@@ -42,6 +42,14 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   35 mins         █████████████▓░░░░░░░░░░░   55.16 %
+JSON         11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+JavaScript   9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+TSConfig     7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+```
+
 <!--END_SECTION:waka-->
 
 [![LiFengK's GitHub stats](https://github-readme-stats-two-inky-88.vercel.app/api?username=LiFengK&count_private=true&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
