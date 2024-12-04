@@ -44,11 +44,11 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 <!--START_SECTION:waka-->
 
 ```txt
-PHP     2 hrs 13 mins   ███████████████████████▒░   93.40 %
-SQL     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-JSON    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+PHP     2 hrs 14 mins   ███████████████████████▓░   94.57 %
+SQL     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+JSON    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
