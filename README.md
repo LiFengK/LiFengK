@@ -44,11 +44,11 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 48 mins   ██████████████▒░░░░░░░░░░   57.01 %
-TypeScript   1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-JSON         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Text         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Python       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+JavaScript   3 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.74 %
+TypeScript   1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+JSON         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Text         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Python       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
