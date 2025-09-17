@@ -44,11 +44,8 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 18 mins         ████████▓░░░░░░░░░░░░░░░░   34.68 %
-PHP                        14 mins         ███████░░░░░░░░░░░░░░░░░░   28.29 %
-Bash                       11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-Nginx configuration file   8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-YAML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   18 mins         █████████████████░░░░░░░░   67.90 %
+PHP          8 mins          ████████░░░░░░░░░░░░░░░░░   32.10 %
 ```
 
 <!--END_SECTION:waka-->
