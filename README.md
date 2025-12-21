@@ -44,11 +44,11 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       5 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   40.86 %
-JavaScript                 3 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.96 %
-PHP                        1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Docker                     56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Bash                       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+YAML                       6 hrs           ████████████▓░░░░░░░░░░░░   51.15 %
+JavaScript                 1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Docker                     1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+PHP                        50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Bash                       47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
