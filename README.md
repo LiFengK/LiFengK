@@ -44,7 +44,7 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   12 mins         █████████████████████████   100.00 %
+YAML   12 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
