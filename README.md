@@ -44,7 +44,8 @@ Currently, I am working for [Pomelo Pay](https://www.pomelopay.com/) as a **Soft
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker       10 mins               ████████████████████████░   95.55 %
+JavaScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
